@@ -1,0 +1,1 @@
+window.location="../html/iniciarsesion.code.html"
